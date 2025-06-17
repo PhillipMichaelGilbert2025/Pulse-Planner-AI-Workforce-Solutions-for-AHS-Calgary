@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 import random
 
 # ---------- API Key embedded directly ----------
-API_KEY = "xai-MlkLHcVybrVz7MLKvSnMxWLAgHQwkNx60GuYfUa61uHOGeq5pPRMv7mdngNiEAOhjAYlGBgmbGm7N2dM"
+API_KEY = ""
 # ----------------------------------------------------------------
 
 # Common headers for future REST calls
